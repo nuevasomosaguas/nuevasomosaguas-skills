@@ -5,6 +5,7 @@ Skills de [Claude Code](https://claude.com/claude-code) para trabajar en los rep
 | Skill | Para qué |
 |---|---|
 | [`nuevo-laboratorio`](skills/nuevo-laboratorio/SKILL.md) | Un problema nuevo en [laboratorios-y-simulaciones](https://github.com/nuevasomosaguas/laboratorios-y-simulaciones) |
+| [`alta-biblioteca`](skills/alta-biblioteca/SKILL.md) | Una obra nueva en el área secundaria de la [biblioteca](https://nuevasomosaguas.github.io/biblioteca.html), como propuesta, y la sesión de revisión que la cura |
 
 ## Instalar
 
