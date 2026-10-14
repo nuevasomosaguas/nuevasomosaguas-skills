@@ -1,0 +1,11 @@
+{
+  "name": "nuevasomosaguas",
+  "owner": { "name": "Nueva Somosaguas" },
+  "plugins": [
+    {
+      "name": "nuevasomosaguas",
+      "source": "./",
+      "description": "Skills de la Nueva Somosaguas para Claude Code"
+    }
+  ]
+}
