@@ -21,3 +21,12 @@ Para probar cambios sin publicarlos, el primer comando acepta también la ruta d
 ## Añadir una skill
 
 Una carpeta `skills/nombre/` con su `SKILL.md`, y una fila en la tabla de arriba.
+
+## Reglas globales
+
+[`AGENTS.md`](AGENTS.md) reúne el mapa de repositorios, la guía de estilo, los criterios de rigor y las órdenes de comprobación para todo el proyecto. En la carpeta raíz que agrupa los repositorios, enlázalo para que cualquier agente lo cargue al abrirla:
+
+```sh
+ln -s nuevasomosaguas-skills/AGENTS.md AGENTS.md
+ln -s AGENTS.md CLAUDE.md
+```
